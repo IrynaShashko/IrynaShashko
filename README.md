@@ -1,1 +1,1 @@
-# about_me
+Hello! I'm Irina Shashko, a passionate web developer with expertise in HTML, CSS, SCSS, JavaScript, and React. I love crafting responsive and visually appealing websites. With a strong foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications. Let's build something amazing together!
