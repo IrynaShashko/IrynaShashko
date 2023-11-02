@@ -1,4 +1,3 @@
-Hello! I'm Iryna Shashko, a passionate web developer with expertise in HTML, CSS, SCSS, JavaScript, and React. I love crafting responsive and visually appealing websites. With a strong foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications. Let's build something amazing together!
 <h1 align="center">Hi 👋, I'm Iryna Shashko</h1>
 <h3 align="center">A passionate frontend developer from Ukraine. I love crafting responsive and visually appealing websites. With a strong foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications. Let's build something amazing together!</h3>
 
