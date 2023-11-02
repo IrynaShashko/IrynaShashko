@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iryna Shashko</h1>
 <h3 align="center">A passionate frontend developer from Ukraine. I love crafting responsive and visually appealing websites. With a strong foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications. Let's build something amazing together!</h3>
 
+- 📫 How to reach me **https://t.me/Iryna_Shashko**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iryna-shashko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iryna-shashko" height="30" width="40" /></a>
