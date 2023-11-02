@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iryna Shashko</h1>
-<h3>A passionate frontend developer from Ukraine. </h3>
-<p>I love crafting responsive and visually appealing websites.</p>
-<p> With a strong foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications.</p>
-<p> Let's build something amazing together!</p>
+<h3 align="center">A passionate frontend developer from Ukraine. </h3>
+<h4>I love crafting responsive and visually appealing websites.</h4>
+<h4> With a strong foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications.</h4>
+<h4> Let's build something amazing together!</h4>
 
 - 📫 How to reach me **https://t.me/Iryna_Shashko**
 
