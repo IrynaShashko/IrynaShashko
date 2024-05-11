@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iryna Shashko</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I'm+Iryna Shashko!)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Ukraine. </h3>
 <h4>I love crafting responsive and visually appealing websites.</h4>
 <h4> With a foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications.</h4>
