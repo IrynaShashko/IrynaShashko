@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=25&pause=1000&color=B00C9C&background=FFD7D400&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Iryna+Shashko!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=25&pause=1000&color=B00C9C&background=FFD7D400&center=true&vCenter=true&random=false&width=1500&lines=Hi+%F0%9F%91%8B%2C+I'm+Iryna+Shashko!" alt="Typing SVG" /></a>
 <h3 >A passionate frontend developer from Ukraine. </h3>
 <h4>I love crafting responsive and visually appealing websites.</h4>
 <h4> With a foundation in front-end technologies, I enjoy creating intuitive user interfaces and interactive web applications.</h4>
